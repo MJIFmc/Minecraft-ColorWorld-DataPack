@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "iron_ingot",
+  "pattern": [
+    "#b#",
+    "bab",
+    "#b#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_gray_concrete"
+    },
+    "a": {
+      "item": "minecraft:black_concrete"
+    },
+    "b": {
+      "item": "minecraft:gray_concrete"
+    }
+  },
+  "result": {
+    "item": "minecraft:basalt",
+    "count": 8
+  }
+}

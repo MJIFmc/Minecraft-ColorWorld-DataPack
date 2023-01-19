@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "Color_blocks",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:red_concrete"
+      },
+      {
+        "item": "minecraft:magenta_concrete"
+      }
+    ],
+    {
+      "item": "minecraft:white_concrete"
+    }
+  ],
+  "result": {
+    "item": "minecraft:pink_concrete",
+    "count": 2
+  }
+}

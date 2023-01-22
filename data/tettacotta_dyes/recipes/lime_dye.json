@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "terracotta",
+  "ingredients": [
+    {
+      "item": "minecraft:lime_concrete"
+    }
+  ],
+  "result": {
+    "item": "minecraft:lime_dye",
+    "count": 1
+  }
+}

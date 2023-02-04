@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tube_coral",
+  "ingredients": [
+    {
+      "item": "minecraft:yellow_concrete"
+    },
+    {
+      "item": "minecraft:ender_eye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:horn_coral",
+    "count": 2
+  }
+}

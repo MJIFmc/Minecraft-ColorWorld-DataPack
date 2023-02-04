@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "stone",
+  "pattern": [
+    "#b#",
+    "bab",
+    "#b#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_gray_concrete"
+    },
+    "a": {
+      "item": "minecraft:red_concrete"
+    },
+    "b": {
+      "item": "minecraft:gray_concrete"
+    }
+  },
+  "result": {
+    "item": "minecraft:granite",
+    "count": 8
+  }
+}

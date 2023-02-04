@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "wheat_seeds",
+  "ingredients": [
+    {
+      "item": "minecraft:grass"
+    },
+    {
+      "item": "minecraft:bone_meal"
+    },
+    {
+      "item": "minecraft:orange_dye"
+    }
+  ],
+  "result": {
+    "item": "minecraft:carrot"
+  }
+}

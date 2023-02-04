@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#S#",
+    "#C#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "C": {
+      "item": "minecraft:netherrack"
+    },
+    "S": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "minecraft:netherite_upgrade_smithing_template"
+  }
+}

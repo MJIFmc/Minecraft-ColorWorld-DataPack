@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "Color_blocks",
+  "ingredients": [
+    [
+      {
+        "item": "minecraft:light_blue_concrete"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:green_concrete"
+      }
+    ]
+  ],
+  "result": {
+    "item": "minecraft:cyan_concrete",
+    "count": 2
+  }
+}

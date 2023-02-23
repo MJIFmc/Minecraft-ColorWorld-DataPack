@@ -1,4 +1,4 @@
-**Minecraft ColorWorld数据包**
+# Minecraft ColorWorld数据包
 
 ~~Minecraft ColorWorld数据包是一个公开,共享的Minecraft数据包.~~
 
@@ -7,3 +7,5 @@
 目前数据包处于开发的第一阶段,一起开发请到QQ群748806876!
 
 数据包有一个剧情,你知道吗?
+
+到[BiliBili](https://space.bilibili.com/1406530972) 或 [AcFun](https://www.acfun.cn/u/72186124)支持我!

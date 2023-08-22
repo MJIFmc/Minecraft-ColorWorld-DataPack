@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:reinforced_deepslate"
+    },
+    "title": "究级压缩",
+    "description": "挖不下来可以手搓啊",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "colorworld:get_stone",
+  "criteria": {
+    "reinforced_deepslate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:reinforced_deepslate"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "reinforced_deepslate"
+    ]
+  ],
+  "rewards": {
+    "experience": 32
+  }
+}

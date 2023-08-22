@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "rock",
+  "ingredients": [
+    {
+      "item": "minecraft:stone"
+    },
+    {
+      "item": "minecraft:gray_concrete"
+    }
+  ],
+  "result": {
+    "item": "minecraft:basalt"
+  }
+}

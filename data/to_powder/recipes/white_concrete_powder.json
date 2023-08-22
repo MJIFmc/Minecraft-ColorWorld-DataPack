@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "to_powder",
+  "ingredient": {
+    "item": "minecraft:white_concrete"
+  },
+  "result": "minecraft:white_concrete_powder",
+  "count": 1
+}

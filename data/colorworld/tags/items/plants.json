@@ -1,0 +1,173 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "#minecraft:leaves",
+      "required": false
+    },
+    {
+      "id": "#minecraft:small_flowers",
+      "required": false
+    },
+    {
+      "id": "#minecraft:flowers",
+      "required": false
+    },
+    {
+      "id": "#minecraft:tall_flowers",
+      "required": false
+    },
+    {
+      "id": "minecraft:beetroot_seeds",
+      "required": false
+    },
+    {
+      "id": "minecraft:carrot",
+      "required": false
+    },
+    {
+      "id": "minecraft:melon_seeds",
+      "required": false
+    },
+    {
+      "id": "minecraft:potato",
+      "required": false
+    },
+    {
+      "id": "minecraft:pumpkin_seeds",
+      "required": false
+    },
+    {
+      "id": "minecraft:wheat_seeds",
+      "required": false
+    },
+    {
+      "id": "minecraft:allium",
+      "required": false
+    },
+    {
+      "id": "minecraft:azure_bluet",
+      "required": false
+    },
+    {
+      "id": "minecraft:bamboo",
+      "required": false
+    },
+    {
+      "id": "minecraft:blue_orchid",
+      "required": false
+    },
+    {
+      "id": "minecraft:cactus",
+      "required": false
+    },
+    {
+      "id": "minecraft:cocoa_beans",
+      "required": false
+    },
+    {
+      "id": "minecraft:cornflower",
+      "required": false
+    },
+    {
+      "id": "minecraft:dandelion",
+      "required": false
+    },
+    {
+      "id": "minecraft:dead_bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:fern",
+      "required": false
+    },
+    {
+      "id": "minecraft:glow_berries",
+      "required": false
+    },
+    {
+      "id": "minecraft:glow_lichen",
+      "required": false
+    },
+    {
+      "id": "minecraft:grass",
+      "required": false
+    },
+    {
+      "id": "minecraft:kelp",
+      "required": false
+    },
+    {
+      "id": "minecraft:lilac",
+      "required": false
+    },
+    {
+      "id": "minecraft:lily_of_the_valley",
+      "required": false
+    },
+    {
+      "id": "minecraft:lily_pad",
+      "required": false
+    },
+    {
+      "id": "minecraft:moss_block",
+      "required": false
+    },
+    {
+      "id": "minecraft:orange_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:oxeye_daisy",
+      "required": false
+    },
+    {
+      "id": "minecraft:peony",
+      "required": false
+    },
+    {
+      "id": "minecraft:pink_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:poppy",
+      "required": false
+    },
+    {
+      "id": "minecraft:red_tulip",
+      "required": false
+    },
+    {
+      "id": "minecraft:rose_bush",
+      "required": false
+    },
+    {
+      "id": "minecraft:seagrass",
+      "required": false
+    },
+    {
+      "id": "minecraft:spruce_leaves",
+      "required": false
+    },
+    {
+      "id": "minecraft:sugar_cane",
+      "required": false
+    },
+    {
+      "id": "minecraft:sunflower",
+      "required": false
+    },
+    {
+      "id": "minecraft:sweet_berries",
+      "required": false
+    },
+    {
+      "id": "minecraft:vine",
+      "required": false
+    },
+    {
+      "id": "minecraft:white_tulip",
+      "required": false
+    }
+  ]
+}

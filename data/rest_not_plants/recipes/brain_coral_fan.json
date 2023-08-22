@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "tube_coral_fan",
+  "ingredients": [
+    {
+      "item": "minecraft:brain_coral"
+    }
+  ],
+  "result": {
+    "item": "minecraft:brain_coral_fan"
+  }
+}

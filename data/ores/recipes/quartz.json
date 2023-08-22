@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ingot",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_concrete"
+    }
+  },
+  "result": {
+    "item": "minecraft:quartz"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:stone"
+    },
+    "title": "熟悉的感觉",
+    "description": "方块周期表第一位",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "colorworld:get_crafting_table",
+  "criteria": {
+    "stone": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:stone"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "stone"
+    ]
+  ],
+  "rewards": {
+    "experience": 4
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:white_concrete"
+    },
+    "title": "三色世界",
+    "description": "太虚生两极,两极生三相,三相生万物",
+    "background": "minecraft:textures/block/white_concrete.png",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "Colorworld": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "requirements": [
+    [
+      "Colorworld"
+    ]
+  ],
+  "rewards": {
+    "function": "colorworld:start",
+	"recipes": [
+      "color_core:white_concrete",
+      "color_core:black_concrete",
+      "color_core:brown_concrete",
+      "color_core:cyan_concrete",
+      "color_core:gray_concrete",
+      "color_core:green_concrete",
+      "color_core:light_blue_concrete",
+      "color_core:light_gray_concrete",
+      "color_core:magenta_concrete",
+      "color_core:orange_concrete",
+      "color_core:pink_concrete",
+      "color_core:purple_concrete",
+      "color_core:white_concrete",
+      "color_core:yellow_concrete",
+      "color_add:gray_concrete",
+      "color_add:light_gray_concrete",
+      "color_add:purple_concrete",
+      "nature:crafting_table"
+    ]
+  },
+  "sends_telemetry_event": true
+}
